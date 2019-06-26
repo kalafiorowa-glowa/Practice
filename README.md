@@ -10,4 +10,4 @@ Java - Język programowania zorientowany obiektowo, czyli posługuje się pojęc
 
 Selenium Webdriver -  Framework do testowania aplikacji webowych za pomocą dowolnego języka skryptowego. Współgra z większością przeglądarek i na każdej platformie.
 
-TestNG - jest biblioteką programistyczną służącą do pisania automatycznych testów dla języka programowania Java.
+TestNG - Framework czyli biblioteka służącą do pisania automatycznych testów dla języka programowania Java.
