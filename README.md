@@ -9,3 +9,5 @@ Maven jest to narzędzie do Automatyzacji procesu budowania aplikacji. Mavena in
 Java - Język programowania zorientowany obiektowo, czyli posługuje się pojęciami takimi jak Obiekt, czy Klasa. Klasa definiuje zestaw Metod i Pól dla swoich obiektów. Jave instalujemy normalnie pobierając ze strony Oracle i również ustawiając zmienną w PATH systemu.
 
 Selenium Webdriver -  Framework do testowania aplikacji webowych za pomocą dowolnego języka skryptowego. Współgra z większością przeglądarek i na każdej platformie.
+
+TestNG - jest biblioteką programistyczną służącą do pisania automatycznych testów dla języka programowania Java.
